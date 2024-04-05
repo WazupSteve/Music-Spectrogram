@@ -21,7 +21,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/wazupsteve/melody-randomization-tool.git
+https://github.com/WazupSteve/Music-Spectrogram.git
 ```
 
 2. Install the dependencies:
