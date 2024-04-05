@@ -21,7 +21,7 @@
 1. Clone the repository:
 
 ```bash
-https://github.com/WazupSteve/Music-Spectrogram.git
+git clone https://github.com/WazupSteve/Music-Spectrogram.git
 ```
 
 2. Install the dependencies:
